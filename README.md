@@ -17,7 +17,7 @@ Find the Happy Thoughts Frontend live here: https://happy-thoughts-react-project
 
 ## View it live
 
-https://happy-thoughts-backend.herokuapp.com/
+Backend: https://project-happy-thoughts-api-production.up.railway.app
 
 
 
